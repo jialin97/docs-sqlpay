@@ -5,7 +5,7 @@ slug: /hrms/etms
 tags: ["SQL Payroll", "HRMS", "Cloud", "ETMS", "User Guide", "SQL Drive"]
 ---
 
-## Introduction
+## Introductionn
 
 Time Management System (ETMS) is a feature which allows employers to monitor employees performance and greatly reducing hazzle in employees reward such as overtime (OT).
 
